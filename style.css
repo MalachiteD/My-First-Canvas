@@ -1,0 +1,12 @@
+.body_background{
+    background-image: url("landscape_image.jfif");
+    background-size: cover;
+    background-position: center;
+}
+
+#my_canvas{
+    background-color: white;
+    border-style: ridge;
+    border-color: grey;
+    border-width: 10px
+}
